@@ -1,0 +1,12 @@
+# To use the program from the command line
+# save this file as 
+# ~/.runnerplusrc
+# or
+# ~/.runometerc
+
+[Login]
+email = username
+password = pwd
+
+[Backup]
+dirname = ~/nike+backup
